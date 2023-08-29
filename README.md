@@ -1,5 +1,3 @@
-# Forsaken-Dominion
-Repo for the game Forsaken Dominion to keep track of changes 
 ![image](https://github.com/Tweaver347/Forsaken-Dominion/assets/74430398/9859b48a-6611-40b0-a44e-565afde8fd5c)
 
 Welcome to **Forsaken Dominion**, an exciting 2D sidescroller game where you take control of a mighty skeleton endowed with magical powers on a mission to exterminate slimes and collect coins. Embark on this epic journey, defeat hordes of slimes, and use your hard-earned coins to purchase powerful upgrades. Get ready to experience a thrilling adventure in the undead world!
@@ -21,12 +19,16 @@ In **Forsaken Dominion**, you play as Skully, a fearless skeleton armed with a s
 - Avoid hazards and traps as you progress through each level.
 - Confront powerful slime bosses at the end of each world to advance.
 
+  ![image](https://github.com/Tweaver347/Forsaken-Dominion/assets/74430398/98ed1683-40bc-4c29-8f29-ecc7c0aa77a0)
+
 ## Features
 - Engaging 2D sidescroller gameplay.
 - Challenging enemies and bosses.
 - Unique magical powers: sword attacks and fireball spells.
 - Coin collection system.
 - Upgrades to enhance Skully's abilities and powers.
+
+![image](https://github.com/Tweaver347/Forsaken-Dominion/assets/74430398/2a980afb-f039-4a3f-8075-e0a7f5ba78d5)
 
 ## Upgrades
 Use the coins you collect to purchase upgrades:

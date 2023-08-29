@@ -19,7 +19,8 @@ In **Forsaken Dominion**, you play as Skully, a fearless skeleton armed with a s
 - Avoid hazards and traps as you progress through each level.
 - Confront powerful slime bosses at the end of each world to advance.
 
-  ![image](https://github.com/Tweaver347/Forsaken-Dominion/assets/74430398/98ed1683-40bc-4c29-8f29-ecc7c0aa77a0)
+![image](https://github.com/Tweaver347/Forsaken-Dominion/assets/74430398/28014a69-9945-4ac6-91f1-9c5ee064be01)
+
 
 ## Features
 - Engaging 2D sidescroller gameplay.
